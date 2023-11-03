@@ -17,6 +17,8 @@
 		mostra as linhas que foram alteradas no documento
 		- git commit\
 		faz o commit no repositório
-		- git rm
-		descrição
+		- git log\
+		apresenta o registro de commits para serem atualizados
+		- git restore\
+		retorna arquivos modificados da área de staged ou change
 
