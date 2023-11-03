@@ -8,4 +8,5 @@
 
 ## Anotações principais
 
-- Módulo: Git e Versionamento:
+- [Módulo: Git e Versionamento](./mod1/notes.md)
+- [Módulo: Definições de funções](./mod2/notes.md)

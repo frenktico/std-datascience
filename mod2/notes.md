@@ -1,0 +1,4 @@
+# Módulo: Definições de funções:
+
+- 
+	
