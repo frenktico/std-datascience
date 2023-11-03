@@ -11,11 +11,11 @@
 - Módulo: Git e Versionamento:
 
 	- Comandos realçados:
-		- git status
-			alerta as modificação que ainda não foram staged
+		- git status\
+		alerta as modificação que ainda não foram staged
 		- git diff\
 		mostra as linhas que foram alteradas no documento
-		- git commit
+		- git commit\
 		faz o commit no repositório
 		- git rm
 		descrição
