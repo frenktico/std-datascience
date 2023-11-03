@@ -21,4 +21,7 @@
 		apresenta o registro de commits para serem atualizados
 		- **[git restore](https://git-scm.com/docs/git-restore#_description])**\
 		retorna arquivos modificados da área de staged ou change
-
+		- **[git branch](https://git-scm.com/docs/git-branch#_description)**\
+		cria uma branch para trabalhar em outra versão do projeto
+		- **[git checkout](https://git-scm.com/docs/git-checkout#_description)**\
+		troca de branch para trabalhar em outra versão do projeto
